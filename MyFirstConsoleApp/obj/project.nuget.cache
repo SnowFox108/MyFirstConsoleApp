@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RzedHV0c9khpz1U59dpI/3RlasEFW8KmZ4iNkOIGVaDt0nDv2x2p2GlaU5qewegFSqo8TBzrZ5G4WMsI5hC9CA==",
+  "dgSpecHash": "EB3yCji8+H5DF6oj/Mkx9c+idalqcuT9ZS9bn0Xb3OaXnZAkzRamiiIAzYKOvQbVvSlUsR61MUGlUwE0haSN4w==",
   "success": true,
-  "projectFilePath": "D:\\MyCode\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Sample\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\winso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
